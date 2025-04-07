@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://giswqs.github.io/open-results-demo/</loc>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/open-results-demo/template/</loc>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/open-results-demo/chapter_01/basemaps/</loc>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/open-results-demo/chapter_01/intro/</loc>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/open-results-demo/chapter_02/heatmap/</loc>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/open-results-demo/chapter_02/splitmap/</loc>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+</urlset>
